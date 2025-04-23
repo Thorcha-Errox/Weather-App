@@ -58,7 +58,7 @@ function Weather(){
           alert(data.message);
           return;
         }
-        // console.log(data);
+        // console.log(data); // this is to see the data which has been fetched from api
         let icon = allIcons[data.weather[0].icon] || dclear_sky_icons;
         let options = {
           hour: '2-digit',
