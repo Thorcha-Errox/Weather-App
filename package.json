@@ -1,11 +1,10 @@
 {
-  "homepage": "https://thorcha-errox.github.io/Weather-App/",
+  "homepage": "https://thorcha-errox.github.io/Weather-App",
   "name": "weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
