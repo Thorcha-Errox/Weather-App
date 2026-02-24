@@ -2,27 +2,27 @@
 
 A robust and user-friendly Weather Forecast application built in **Python**, utilizing the **OpenWeather API** to deliver accurate, real-time weather data and forecasts. 
 
-## 🚀 Features
+## Features
 
 - **Current Weather Conditions:** Get up-to-date information on temperature, humidity, wind speed, and weather descriptions.
 - **Location-Based Forecasting:** Search for weather data seamlessly by city name.
 - **Simple & Intuitive:** Designed for ease of use with a straightforward interface.
 - **Reliable Data:** Powered by the highly accurate OpenWeather API.
 
-## 🛠️ Built With
+## Built With
 
 * **Python:** Core programming language used to build the application logic.
 * **OpenWeather API:** Fetches real-time weather data and forecasts.
 * **Requests:** For handling HTTP requests in Python.
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Before running the application, ensure you have the following installed:
 - [Python 3.x](https://www.python.org/downloads/)
 - `pip` (Python package installer)
 - An active API key from [OpenWeather](https://openweathermap.org/api)
 
-## 📥 Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -45,7 +45,7 @@ pip install requests python-dotenv
 ```Code snippet
 API_KEY=your_openweather_api_key_here
 ```
-## 💻 Usage
+## Usage
 To run the application, execute your main Python script (replace `main.py` or `app.py` with the actual name of your main Python file):
 
 ```Bash
